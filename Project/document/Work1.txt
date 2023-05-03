@@ -1,0 +1,49 @@
+Admin
+
+Login,
+View all Users and Authorize,
+View all Company Users and Authorize,
+Add all Company Name,
+View all Company details with rank and reviews,
+View all Companies by Crisis Tree Format,
+View all User search transaction by keyword,
+Show search ratio by keyword,
+Find top k companies by ranks,
+View all Companies rank by chart,
+View all search ratio by keyword in chart,
+
+
+Production Company
+
+Register and Login,
+View Profile,
+Add Company Details,
+View Company Details with reviews and ranks,
+View User Search Transactions,
+View all Companies by Crisis Tree Format
+
+
+End Users
+
+
+Register and Login
+My Profile,
+Search Companies,
+View My Search Transactions
+
+
+
+Company Name,Company Category,Company Production,
+Company Description,Product Description Crisis found to Manufacture	
+Company Owner,Company E-mail Id,Company Contact No,Company Address
+,Started Year,Chalenges Found in the scenario,Select Company Picture 
+
+
+
+
+
+
+
+
+
+
